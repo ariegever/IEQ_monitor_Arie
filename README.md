@@ -25,6 +25,7 @@ temperature, relative humidity, and CO₂ built with Arduino Uno.
 | `DATA (1).CSV` | Raw logged data (4.5 days, ~12,900 rows) |
 | `IEQ_Monitoring_Figures.png` | Results figures |
 | `circuit_image.png` | Wiring diagram |
+| `Mid-semester Project_Arie_207223447.docx` | Full project report |
 
 ## How to Run the Plot Script
 1. Install dependencies: `pip install matplotlib numpy`
